@@ -1,2 +1,2 @@
-# sip-bos
-sip-bos
+# simon-bosp
+simon-bosp
